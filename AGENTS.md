@@ -1,10 +1,10 @@
-- Generated documentation to docs folder ONLY!
-- Create Date-prefixed subdirectories in docs folder!
-- Do not create explainer documents, implementation plans, or summary markdown files unless specifically requested. Use the chat interface for all reasoning
-- Do not assume! Surface tradeoffs!
-- when multiple methods present themselves, ask questions. We can make design decisions together.
-- If you need to maintain a state or plan, only use docs/scratchpad.md. Overwrite it for every new task rather than creating new files.
+- Don’t assume. Don’t hide confusion. Surface tradeoffs.
 - Minimum code. Nothing speculative.
 - Touch only what you must.
+- Define success criteria. Loop until verified.
+- Generate documentation to docs folder ONLY!
+- Create Date-prefixed subdirectories in docs folder!
+- Do not create explainer documents, implementation plans, or summary markdown files unless specifically requested. Use the chat interface for all reasoning
+- when multiple methods present themselves, ask questions. We can make design decisions together.
+- If you need to maintain a state or plan, only use docs/scratchpad.md. Overwrite it for every new task rather than creating new files. Include assumptions you made!
 - Make version-based planning where each version must implement a single testable feature which can be a single UI item or method.
-- Define success criteria for each task.
